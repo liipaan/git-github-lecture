@@ -1,3 +1,6 @@
 const x = 2;
 const y = 5;
-console.log(x+)
+
+function add(x, y) {
+  return x + y;
+}
